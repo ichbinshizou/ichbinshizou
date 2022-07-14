@@ -3,17 +3,14 @@
 
 
 
-<div align="center">
-   <a href="https://discord.com/users/489764949761982464" target="_blank">
-      <img src="(https://lanyard-profile-readme.vercel.app/api/489764949761982464?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)">
-   </a>
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/489764949761982464?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/489764949761982464)
 
-## Social Media Accounts
+## Sosyal Medya Hesaplarım
 <p align="left">
-<a href="https://twitch.tv/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://instagram.com/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM-9146FF?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-1ed760.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCu5G0lsHae9pZVAZLoJ1GBQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>   
 <a href="https://open.spotify.com/user/31s6edoswpp7c42ng3fjmfkuh2nq" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://discord.com/users/489764949761982464" target"blank_"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>
- <a href="https://www.youtube.com/channel/UCu5G0lsHae9pZVAZLoJ1GBQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://twitch.tv/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>   
+<a href="https://discord.com/users/489764949761982464" target"blank_"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>   
 </p>
-
