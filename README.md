@@ -8,7 +8,7 @@
 ## Sosyal Medya Hesaplarım
 <p align="left">
 <a href="https://instagram.com/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM-9146FF?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-1ed760.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-00acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCu5G0lsHae9pZVAZLoJ1GBQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>   
 <a href="https://open.spotify.com/user/31s6edoswpp7c42ng3fjmfkuh2nq" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://twitch.tv/ichbinshizou" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>   
