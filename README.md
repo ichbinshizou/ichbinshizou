@@ -6,7 +6,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/489764949761982464?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/489764949761982464)
 <div align="center">
    <a href="https://discord.com/users/489764949761982464" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/489764949761982464?bg=18191">
+      <img src="(https://lanyard-profile-readme.vercel.app/api/489764949761982464?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/489764949761982464)">
    </a>
 </div>
 
