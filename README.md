@@ -4,6 +4,11 @@
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/489764949761982464?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/489764949761982464)
+<div align="center">
+   <a href="https://discord.com/users/489764949761982464" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/489764949761982464?bg=18191">
+   </a>
+</div>
 
 ## Social Media Accounts
 <p align="left">
@@ -12,8 +17,4 @@
 <a href="https://discord.com/users/489764949761982464" target"blank_"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="https://www.youtube.com/channel/UCu5G0lsHae9pZVAZLoJ1GBQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
-<div align="center">
-   <a href="https://discord.com/users/489764949761982464" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/489764949761982464?bg=111111">
-   </a>
-</div>
+
