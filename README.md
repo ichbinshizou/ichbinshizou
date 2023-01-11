@@ -3,7 +3,7 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/980125697207062588?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/980125697207062588)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/980125697207062588?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/489764949761982464)
 
 ## ✨ Sosyal Medya Hesaplarım!
 <p align="left">
