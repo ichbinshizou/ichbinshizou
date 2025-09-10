@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ichbinshizou&label=Profile%20Views&color=004123" alt="ichbinshizou" style="max-width: 100%;">
-</div>
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/219598715902623744">
